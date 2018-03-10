@@ -1,91 +1,38 @@
-#EXTM3U
-#EXTINF:-1,BEINSPORT_1SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/24.ts
-#EXTINF:-1,BEINSPORT_2SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/23.ts
-#EXTINF:-1,BEINSPORT_3SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/22.ts
-#EXTINF:-1,BEINSPORT_4SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/21.ts
-#EXTINF:-1,BEINSPORT_5SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/20.ts
-#EXTINF:-1,BEINSPORT_6SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/19.ts
-#EXTINF:-1,BEINSPORT_7SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/18.ts
-#EXTINF:-1,BEINSPORT_8SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/17.ts
-#EXTINF:-1,BEINSPORT_9SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/16.ts
-#EXTINF:-1,BEINSPORT_10SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/15.ts
-#EXTINF:-1,BEINSPORT_11SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/14.ts
-#EXTINF:-1,BEINSPORT_12SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/13.ts
-#EXTINF:-1,BEINSPORT_13SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/12.ts
-#EXTINF:-1,BEINSPORT_14SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/11.ts
-#EXTINF:-1,BEINSPORT_15SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/9.ts
-#EXTINF:-1,BEINSPORT_16SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/1181.ts
-#EXTINF:-1,BEINSPORT_17SD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/1182.ts
-#EXTINF:-1,BeinSport_1_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/436.ts
-#EXTINF:-1,BeinSport_2_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/437.ts
-#EXTINF:-1,BeinSport_3_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/438.ts
-#EXTINF:-1,BeinSport_4_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/439.ts
-#EXTINF:-1,BeinSport_5_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/440.ts
-#EXTINF:-1,BeinSport_6_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/441.ts
-#EXTINF:-1,BeinSport_7_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/442.ts
-#EXTINF:-1,BeinSport_8_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/443.ts
-#EXTINF:-1,BeinSport_9_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/444.ts
-#EXTINF:-1,BeinSport_10_HD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/445.ts
-#EXTINF:-1,beIN.SPORTS.1_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/181.ts
-#EXTINF:-1,beIN.SPORTS.2_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/182.ts
-#EXTINF:-1,beIN.SPORTS.3_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/183.ts
-#EXTINF:-1,beIN.SPORTS.4_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/184.ts
-#EXTINF:-1,beIN.SPORTS.5_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/185.ts
-#EXTINF:-1,beIN.SPORTS.6_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/186.ts
-#EXTINF:-1,beIN.SPORTS.7_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/187.ts
-#EXTINF:-1,beIN.SPORTS.8_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/188.ts
-#EXTINF:-1,beIN.SPORTS.9_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/189.ts
-#EXTINF:-1,beIN.SPORTS.10_LOW
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/190.ts
-#EXTINF:-1,beIN.SPORTS.11_FULLHD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/191.ts
-#EXTINF:-1,beIN.SPORTS.12_FULLHD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/192.ts
-#EXTINF:-1,beIN.SPORTS.13_FULLHD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/193.ts
-#EXTINF:-1,beIN.SPORTS.14_FULLHD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/194.ts
-#EXTINF:-1,beIN.SPORTS.15_FULLHD
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/195.ts
-#EXTINF:-1,FR:BeIN-Sports-1
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/516.ts
-#EXTINF:-1,FR:BeIN-Sports-2
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/517.ts
-#EXTINF:-1,FR:BeIN-Sports-3
-http://0100dyndns.tv:7879/live/zeyad1/zeyad1/518.ts
+ #EXTINF:-1,AR: Bein Gourmet
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/6069.ts 
+ #EXTINF:-1,AR: Be Junior
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/6068.ts
+ #EXTINF:-1,AR: Bein Sports 1 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1392.ts
+ #EXTINF:-1,AR: Bein Sports 2 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/4220.ts 
+#EXTINF:-1,AR: Bein Sports 3 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1390.ts 
+#EXTINF:-1,AR: Bein Sports 4 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1389.ts
+ #EXTINF:-1,AR: Bein Sports 5 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1388.ts
+ #EXTINF:-1,AR: Bein Sports 6 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1387.ts
+ #EXTINF:-1,AR: Bein Sports 7 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1386.ts 
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1385.ts
+ #EXTINF:-1,AR: Bein Sports 9 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1384.ts 
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1383.ts 
+#EXTINF:-1,AR: Bein Sports 11 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1366.ts
+ #EXTINF:-1,AR: Bein Sports 12 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1365.ts
+ #EXTINF:-1,AR: Bein Movies 1 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1380.ts 
+#EXTINF:-1,AR: Bein Movies 2 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1379.ts
+ #EXTINF:-1,AR: Bein Movies 3 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1381.ts 
+#EXTINF:-1,AR: Bein Movies 4 HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1378.ts
+ #EXTINF:-1,AR: Bein Series HD
+http://watch.eclipseiptv.com:80/live/ramdan/2oKTLNetmS/1377.ts
